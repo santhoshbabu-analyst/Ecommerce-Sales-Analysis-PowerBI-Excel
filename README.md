@@ -19,7 +19,7 @@ The goal of this project is to transform raw e-commerce transactional data into 
 
 ---
 
-## 🗂️ Data Model 
+## 🗂️ Data Model (Updated)
 
 | Type | Table Name | Description |
 |------|-------------|--------------|
@@ -118,6 +118,6 @@ View the interactive version of the dashboard here:
 🎯 *Data Analyst Aspirant | SQL | Power BI | Python | DAX | Excel*  
 
 📧 **Email:** [santhoshbabus.analyst@gmail.com](mailto:santhoshbabus.analyst@gmail.com)  
-🔗 [**LinkedIn**](https://linkedin.com/in/your-profile) | [**GitHub**](https://github.com/santhoshbabu-analyst)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/santhoshbabus/) | [**GitHub**](https://github.com/santhoshbabu-analyst)
 
 ---
