@@ -19,7 +19,7 @@ The goal of this project is to transform raw e-commerce transactional data into 
 
 ---
 
-## 🗂️ Data Model (Star Schema)
+## 🗂️ Data Model 
 
 | Type | Table Name | Description |
 |------|-------------|--------------|
@@ -29,6 +29,12 @@ The goal of this project is to transform raw e-commerce transactional data into 
 | **Dimension** | `store_dim.csv` | Country and division details |
 | **Dimension** | `time_dim.csv` | Time-based hierarchy (Year, Month, Week) |
 | **Dimension** | `Trans_dim.csv` | Payment method/transaction type |
+
+📦 **Note:**  
+All dataset files are combined into a single ZIP file for easier access:  
+➡️ [**E-Commerce dataset.zip**](Data/E-Commerce%20dataset.zip)  
+
+Unzip the file to access all CSV files before importing them into Power BI or Excel.
 
 ---
 
