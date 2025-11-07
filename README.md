@@ -55,34 +55,6 @@ The goal of this project is to transform raw e-commerce transactional data into 
 
 ---
 
-## 🧩 Folder Structure
-
-```
-E-Commerce-Sales-Analysis/
-│
-├── 📁 Data/
-│   ├── customer_dim.csv
-│   ├── fact_table.csv
-│   ├── item_dim.csv
-│   ├── store_dim.csv
-│   ├── time_dim.csv
-│   └── Trans_dim.csv
-│
-├── 📊 Dashboards/
-│   ├── ecommerce_dashboard.pbix        # Power BI Dashboard
-│   └── ecommerce_sales.xlsx            # Excel Dashboard
-│
-├── 📸 Images/
-│   ├── powerbi_overview.png
-│   ├── powerbi_product.png
-│   ├── excel_overview.png
-│   └── excel_product.png
-│
-└── 📄 README.md
-```
-
----
-
 ## 🔷 Power BI Dashboard Preview
 
 ### **1️⃣ Overview Page**
@@ -127,28 +99,19 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 🚀 How to Use
+## 🔗 Live Dashboard
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/Ecommerce-Sales-Analysis.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop**  
-3. Or open the `.xlsx` file in **Microsoft Excel**  
-4. Use filters and slicers to explore insights dynamically  
+View the interactive version of the dashboard here:  
+👉 [**Power BI Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTU3ZWY4Y2YtMDQwNi00MTdiLWFmZGItM2UxM2Q4MzgzZGRhIiwidCI6IjA2YzRkZTk4LTFlY2UtNDdiOC04OTI2LWNhYTAxOTU2MWQ1NyJ9&pageName=4fb72afdf1cbc56d2d66)
 
 ---
 
-## 🏷️ Tags
+## 📬 Contact
 
-`#PowerBI` `#ExcelDashboard` `#DataAnalytics` `#Ecommerce` `#BusinessIntelligence` `#DataVisualization`
+**👤 Santhosh Babu S**  
+🎯 *Data Analyst Aspirant | SQL | Power BI | Python | DAX | Excel*  
 
----
-
-## 🧑‍💻 Author
-
-**👋 Created by:** *Santhosh Babu*  
-📩 Email: [your.email@example.com]  
-🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📧 **Email:** [santhoshbabus.analyst@gmail.com](mailto:santhoshbabus.analyst@gmail.com)  
+🔗 [**LinkedIn**](https://linkedin.com/in/your-profile) | [**GitHub**](https://github.com/santhoshbabu-analyst)
 
 ---
